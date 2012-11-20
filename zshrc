@@ -8,9 +8,12 @@ Bundle 'matschaffer/zsh-theme-gnzh'
 
 Bundle 'trotter/zsh-aws'
 Bundle 'trotter/zsh-java'
+Bundle 'trotter/zsh-rbenv'
 
 LoadBundles
 
 alias ls="ls -G"
 
 java-use-version "jdk1.7.0_09.jdk"
+
+export EDITOR=vim
