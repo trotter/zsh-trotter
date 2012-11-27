@@ -9,6 +9,7 @@ Bundle 'matschaffer/zsh-theme-gnzh'
 Bundle 'trotter/zsh-aws'
 Bundle 'trotter/zsh-java'
 Bundle 'trotter/zsh-rbenv'
+Bundle 'trotter/zsh-ssh'
 
 LoadBundles
 
