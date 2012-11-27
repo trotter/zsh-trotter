@@ -18,3 +18,5 @@ alias ls="ls -G"
 java-use-version "jdk1.7.0_09.jdk"
 
 export EDITOR=vim
+
+bindkey -e
